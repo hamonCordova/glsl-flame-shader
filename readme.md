@@ -3,10 +3,12 @@ This Flame Shader was created using GLSL and showcased with Three.js.
 
 ## Demo
 The project includes three different shapes, which were created from scratch.
+
 | Shape 1                             | Shape 2                             | Shape 3                             |
 |-------------------------------------|-------------------------------------|-------------------------------------|
 | ![Demo 1](static/demo/demo1.png)    | ![Demo 2](static/demo/demo2.png)    | ![Demo 3](static/demo/demo3.png)    |
 
+[Try the live demo by clicking here.](https://glsl-flame-shader.vercel.app/)
 
 ## About
 It is a simple shader that takes an alpha texture (three examples are available in the `static` folder) to define its shape. There is a basic wind effect and color mixing, which is enhanced by the Bloom post-processing in Three.js.
